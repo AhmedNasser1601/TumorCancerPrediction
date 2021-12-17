@@ -1,6 +1,8 @@
 # TumorCancerPrediction
 A Machine-Learning Model to Predict the Patient diagnosis based on the given features from a dataset.
 
+Inquiries => ahmednasser1601@gmail.com
+
 ![Description](https://user-images.githubusercontent.com/60184582/146594989-c5d52caf-674a-4304-bec2-3c5d31351149.jpg)
 
 A tumor is an abnormal lump or growth of cells. When the cells in the tumor are normal, it is benign. Something just went wrong, and they overgrew and produced a lump. When the cells are abnormal and can grow uncontrollably, they are cancerous cells, and the tumor is malignant.
